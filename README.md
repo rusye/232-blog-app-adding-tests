@@ -1,2 +1,2 @@
-Blog app challenge solution
+Blog app adding test attempt
 ==========================
